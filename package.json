@@ -1,0 +1,29 @@
+{
+  "name": "mailchimp",
+  "version": "0.1.0",
+  "description": "Mailchimp API v3.0 wrapper.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/mailchimp"
+  },
+  "keywords": [
+    "mailchimp",
+    "api",
+    "wrapper",
+    "v3.0",
+    "3.0"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/mailchimp/issues"
+  },
+  "homepage": "https://github.com/weo-edu/mailchimp",
+  "dependencies": {
+    "superagent": "^1.3.0"
+  }
+}
